@@ -33,7 +33,12 @@ const Index = () => {
   const link3 = document.getElementById('contact');
   link3.addEventListener('click', () => {
     content.replaceChild(contact, content.childNodes[1]);
-  });  
+  });
+
+  const link4 = document.getElementById('appetizers')
+  link4.addEventListener('click', () => {
+  content.replaceChild(contact, content.childNodes[1]);
+  });
 };
 
 export default Index;
