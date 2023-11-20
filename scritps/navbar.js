@@ -31,7 +31,7 @@ const Navbar = () => {
     list.appendChild(navLink3);
 
     const navLink4 = document.createElement('a');
-    navLink4.setAttribute('id', 'contact');
+    navLink4.setAttribute('id', 'appetizers');
     navLink4.setAttribute('class', 'mx-2');
     navLink4.setAttribute('href', '#');
     navLink4.innerHTML = 'appetizers';
