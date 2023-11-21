@@ -50,6 +50,42 @@ body {
   text-shadow: black 2px 2px;
   font-size: 50px;
 }
+#appetizer1 {
+  background-image: url('/imgs/friesimg.jpg');
+  background-size: cover;
+  width: 100%;
+  height: 300px;
+  border-radius: 10px;
+  padding-top: 120px;
+  color: white;
+  text-shadow: black 2px 2px;
+  font-size: 50px;
+  display: flex;
+}
+#appetizer2 {
+  background-image: url('/imgs/nachosimg.jpg');
+  background-size: cover;
+  width: 100%;
+  height: 300px;
+  border-radius: 10px;
+  padding-top: 120px;
+  color: white;
+  text-shadow: black 2px 2px;
+  font-size: 50px;
+  display: flex;
+}
+#appetizer3 {
+  background-image: url('/imgs/bredimg.jpg');
+  background-size: cover;
+  width: 100%;
+  height: 300px;
+  border-radius: 10px;
+  padding-top: 120px;
+  color: white;
+  text-shadow: black 2px 2px;
+  font-size: 50px;
+  display: flex;
+}
 
 #menu2 {
   background-image: url('/imgs/barbecueimg.jpg');

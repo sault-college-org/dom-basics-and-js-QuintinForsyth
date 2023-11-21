@@ -34,7 +34,7 @@ const Navbar = () => {
     navLink4.setAttribute('id', 'appetizers');
     navLink4.setAttribute('class', 'mx-2');
     navLink4.setAttribute('href', '#');
-    navLink4.innerHTML = 'appetizers';
+    navLink4.innerHTML = 'Appetizers';
     list.appendChild(navLink4);
     return list;
   };
